@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>700173485436-h9ehu6pv1qrd9tlh1g9sjv4p143f4n7j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.700173485436-h9ehu6pv1qrd9tlh1g9sjv4p143f4n7j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGLwNqBg-gGogT_EQiGLAVahHFb7LNxQ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>700173485436</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dongpakka.finalSmartFarm</string>
+	<key>PROJECT_ID</key>
+	<string>final-smart-farm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>final-smart-farm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:700173485436:ios:f3ee94176b24c3c2c250f9</string>
+</dict>
+</plist>
